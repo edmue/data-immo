@@ -1,0 +1,27 @@
+.dhx_tabbar_zone_dhx_blue .dhx_tablist_zone {
+	border-bottom:1px solid #91A7B4;
+}
+
+.dhx_tabbar_zone_dhx_blue .dhx_tabcontent_zone {
+	border-width: 0px;
+}
+
+.dhx_tabbar_zone_dhx_blue .dhx_tabbar_row {
+	background-color: #F9F8FD;
+}
+.dhx_tabbar_zone_dhx_skyblue .dhx_tabbar_row{
+	background-image:url("/images/dhtmlx_25/dhxtabbar_dhx_skyblue/bg_top.png");
+}
+
+.dhx_tabbar_zone_dhx_blue .dhx_tablist_line {
+	background-color: transparent;
+}
+
+.dhx_tabbar_zone_dhx_blue .dhx_tab_element {
+	color:black;
+}
+
+.dhx_tablist_line {
+	background-color: #FEAB4E;
+}
+

@@ -1,0 +1,30 @@
+
+.dhtmlx_modal_box {
+    background: -moz-linear-gradient(center top , #FFFFFF 1%, #E6F1CB 99%) repeat scroll 0 0 transparent;
+    border-color: #CCCCCC;
+}
+
+.dhtmlx_popup_title{
+	background: url("/images/dhxmenu_aqua_orange/dhtmlxmenu_top_bg_middle.gif");
+	height:30px; line-height:30px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:14px;
+	font-weight: bold;
+	color: white;
+}
+
+.dhtmlx_popup_text { font-size: 12px; }
+
+.dhtmlx-info, 
+.dhtmlx-error {
+	font-size: 12px;
+	padding: 0px;
+	background: -moz-linear-gradient(center top , #FFFFFF 1%, #DCDDF9 99%) repeat scroll 0 0 transparent;
+}
+
+.dhtmlx-error .dhtmlx_popup_title{ color: #7C0206; }
+.dhtmlx-error .dhtmlx_popup_text{ color: #E50007; }
+
+
+
+
